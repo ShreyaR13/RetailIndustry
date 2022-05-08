@@ -1,7 +1,7 @@
 # RetailIndustry
-API for the Retail Industry, having the data of retail products
+FastAPI for the Retail Industry, having the data of retail products
 
-The API will have the ability to:
+This API will have the ability to:
 
 - Add data to a database
 - Update the existing data
